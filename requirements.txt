@@ -1,1 +1,6 @@
 fastapi
+langchain
+langchain-community
+nltk
+plotly
+sentence-transformers==2.2.2
